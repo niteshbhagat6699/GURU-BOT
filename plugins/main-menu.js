@@ -41,6 +41,7 @@ import {
   ◈ .warn @user
   ◈ .warns
   ◈ .main
+  https://chat.whatsapp.com/FOmzgHHsdBjLWxSenyFcJB
   ╰──────────⳹`
   
   let ownermenu = `
@@ -73,6 +74,7 @@ import {
   ◈ .config
   ◈ .listban
   ◈ .deleteplugin <name>
+  https://chat.whatsapp.com/FOmzgHHsdBjLWxSenyFcJB
   ╰──────────⳹`
   
   let funmenu = `
@@ -95,6 +97,7 @@ import {
   ◈ .image
   ◈ .meme
   ◈ .quote
+  https://chat.whatsapp.com/FOmzgHHsdBjLWxSenyFcJB
   ╰──────────⳹`
   
   let reactmenu = `
@@ -125,6 +128,7 @@ import {
   ◈ .poke @tag
   ◈ .dance @tag
   ◈ .cringe @tag
+  https://chat.whatsapp.com/FOmzgHHsdBjLWxSenyFcJB
   ╰──────────⳹`
   
   let dlmenu = `
@@ -148,6 +152,7 @@ import {
   ◈ .ytsearch
   ◈ .ytmp4 <yt-link>
   ◈ .wallpaper <query>
+  https://chat.whatsapp.com/FOmzgHHsdBjLWxSenyFcJB
   ╰──────────⳹`
   
   let gamemenu = `
@@ -162,6 +167,7 @@ import {
   ◈ .Maths <modes>
   ◈ .ppt <rock/paper/scissors>
   ◈ .tictactoe <tag number>
+  https://chat.whatsapp.com/FOmzgHHsdBjLWxSenyFcJB
   ╰──────────⳹`
   let logomenu = `
   ✦ ───『 *maker* 』─── ⚝
@@ -188,6 +194,7 @@ import {
   ◈ .tweet <comment>
   ◈ .lolicon
   ◈ .ytcomment <comment>
+  https://chat.whatsapp.com/FOmzgHHsdBjLWxSenyFcJB
   ╰──────────⳹`
   
   let stickermenu = `
@@ -211,6 +218,7 @@ import {
   ◈ .attp2
   ◈ .attp3
   ◈ .take <name>|<author>
+  https://chat.whatsapp.com/FOmzgHHsdBjLWxSenyFcJB
   ╰──────────⳹`
   
   let audiomenu = `
@@ -227,6 +235,7 @@ import {
   ◈ .slow [vn]
   ◈ .smooth [vn]
   ◈ .tupai [vn]
+  https://chat.whatsapp.com/FOmzgHHsdBjLWxSenyFcJB
   ╰──────────⳹`
   
   
@@ -257,6 +266,7 @@ import {
   ◈ .wallet
   ◈ .withdraw
   ◈ .work
+  https://chat.whatsapp.com/FOmzgHHsdBjLWxSenyFcJB
   ╰──────────⳹`
   let animemenu = `
   ✦ ───『 *anime* 』─── ⚝
@@ -302,6 +312,7 @@ import {
   ◈ .loli
   ◈ .pokedex <pokemon>
   ◈ .trace
+  https://chat.whatsapp.com/FOmzgHHsdBjLWxSenyFcJB
   ╰──────────⳹
   `
   let nsfwmenu = `
@@ -386,6 +397,7 @@ import {
   ◈ .pack
   ◈ .xvid
   ◈ .xnxx
+  https://chat.whatsapp.com/FOmzgHHsdBjLWxSenyFcJB
   ╰──────────⳹`
   
   let toolsmenu = `
@@ -426,6 +438,7 @@ import {
   ◈ .tts <lang> <task>
   ◈ .wa
   ◈ .wikipedia
+  https://chat.whatsapp.com/FOmzgHHsdBjLWxSenyFcJB
   ╰──────────⳹`
   
   let Aimenu = `
@@ -441,12 +454,14 @@ import {
   ◈ .alexa
   ◈ .bingimg
   ◈ .gemini
+  https://chat.whatsapp.com/FOmzgHHsdBjLWxSenyFcJB
   ╰──────────⳹
   `
   let religionmenu = `
   ✦ ───『 *religion* 』─── ⚝
   ◈ .gita [verse_number]
   ◈ .quran [surah_number|surah_name]
+  https://chat.whatsapp.com/FOmzgHHsdBjLWxSenyFcJB
   ╰──────────⳹`
   
   let botmenu = `
@@ -470,12 +485,14 @@ import {
   ◈ .reg <name.age>
   ◈ .mysn
   ◈ .unreg 
+  https://chat.whatsapp.com/FOmzgHHsdBjLWxSenyFcJB
   ╰──────────⳹
   `
   let pluginmenu = `
   ✦ ───『 *plugin* 』─── ⚝
   ◈ .plugins
   ◈ .install <Gist URL>
+  https://chat.whatsapp.com/FOmzgHHsdBjLWxSenyFcJB
   ╰──────────⳹
   `
 
