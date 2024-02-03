@@ -54,7 +54,7 @@ let str = `
 ┃ 📆  *Today's Date:* ${date} 
 ┃ ⏲️  *Current Time:* ${wib} 
 ┗━━━━━━━━━━━━━┛
-
+https://chat.whatsapp.com/FOmzgHHsdBjLWxSenyFcJB
 ┏━━🤖 _BOT STATUS:_🤖━━┓
 ┃ 🤡  *Bot Name:* ${botname} 
 ┃ 💻  *Platform:* Linux 
