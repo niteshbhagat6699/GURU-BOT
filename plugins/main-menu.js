@@ -605,6 +605,7 @@ import {
   │ *16.* AI Menu
   │ *17.* Religion Menu
   │ *18.* Plugin Menu
+  https://chat.whatsapp.com/FOmzgHHsdBjLWxSenyFcJB
   ╰───────⳹
  ${readMore}` 
 ;
